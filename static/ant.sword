@@ -1,0 +1,27 @@
+CACHE MANIFEST
+# AUTHOR - Antoor
+# CHANGE LOG:
+# --- 2016.03.09 ---
+#   1. 加入离线缓存功能
+#   2. 更改NAVBAR文字为图标
+#   3. 加入font-awesome库
+
+# javascripts
+/static/main.bundle.js
+
+# css
+/static/bootstrap/css/bootstrap.min.css
+/static/font-awesome/css/font-awesome.min.css
+
+# others
+/static/bootstrap/fonts/glyphicons-halflings-regular.woff2
+/static/font-awesome/fonts/fontawesome-webfont.woff2?v=4.5.0
+
+# images
+/static/imgs/344518d9449f52c3b5cdb8d4e244e165.png
+/static/imgs/3803020a577681a055320e68aa37d4e2.png
+/static/imgs/d7baad0edc5a8f2f8d0922af01683756.png
+/static/imgs/83ce5a736431eddd3ad19edf7146aa0a.png
+
+NETWORK:
+*
