@@ -1,6 +1,8 @@
 CACHE MANIFEST
 # AUTHOR - Antoor
 # CHANGE LOG:
+# --- 2016.03.11 ---
+#   1. 修改首页图片标题背景
 # --- 2016.03.09 ---
 #   1. 加入离线缓存功能
 #   2. 更改NAVBAR文字为图标
