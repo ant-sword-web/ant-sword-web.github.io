@@ -3,6 +3,10 @@ CACHE MANIFEST
 # CHANGE LOG:
 # --- 2016.03.11 ---
 #   1. 修改首页图片标题背景
+#   2. 修改关于页面底部距离
+#   3. 增加数据库界面截图
+#   4. 修改数据管理截图
+#   5. 添加了favicon.ico
 # --- 2016.03.09 ---
 #   1. 加入离线缓存功能
 #   2. 更改NAVBAR文字为图标
@@ -21,9 +25,10 @@ CACHE MANIFEST
 
 # images
 /static/imgs/344518d9449f52c3b5cdb8d4e244e165.png
-/static/imgs/3803020a577681a055320e68aa37d4e2.png
+/static/imgs/937c3d8668f51a7c1bda4fde09f8d65e.png
 /static/imgs/d7baad0edc5a8f2f8d0922af01683756.png
 /static/imgs/83ce5a736431eddd3ad19edf7146aa0a.png
+/static/imgs/144e9754e037fa88dd31cdeffd4c23ca.png
 
 NETWORK:
 *
