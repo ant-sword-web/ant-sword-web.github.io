@@ -1,6 +1,10 @@
 CACHE MANIFEST
 # AUTHOR - Antoor
 # CHANGE LOG:
+# --- 2016.03.14 ---
+#   1. 增加404页面
+#   2. 增加帮助tips页面
+#   3. 增加赞助页面
 # --- 2016.03.13 ---
 #   1. 加入CNZZ站长统计
 #   2. 加入Linux&&Windows截图
@@ -32,11 +36,14 @@ CACHE MANIFEST
 /static/font-awesome/fonts/fontawesome-webfont.woff2?v=4.5.0
 
 # images
+/static/imgs/144e9754e037fa88dd31cdeffd4c23ca.png
 /static/imgs/344518d9449f52c3b5cdb8d4e244e165.png
 /static/imgs/937c3d8668f51a7c1bda4fde09f8d65e.png
+/static/imgs/14aae544e694d4ce71d024e4deb4a8c5.png
+/static/imgs/69ac5ac6a19369ebd39ed109af3976ec.png
 /static/imgs/d7baad0edc5a8f2f8d0922af01683756.png
+/static/imgs/245073d0f6cd0b52ce57dbf88acd3322.png
 /static/imgs/83ce5a736431eddd3ad19edf7146aa0a.png
-/static/imgs/144e9754e037fa88dd31cdeffd4c23ca.png
 
 NETWORK:
 *
