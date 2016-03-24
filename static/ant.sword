@@ -1,6 +1,8 @@
 CACHE MANIFEST
 # AUTHOR - Antoor
 # CHANGE LOG:
+# --- 2016.03.24 ---
+#   1. 修改导航栏为fixed固定
 # --- 2016.03.23 ---
 #   1. 更新v1.1.0下载地址
 #   2. 新增百度网盘下载地址
